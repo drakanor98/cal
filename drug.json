@@ -1,0 +1,1133 @@
+{
+  "Acetylcysteine": {
+    "reaction": "Vomiting (oral), bronchospasm (inhaled), rare hypersensitivity",
+    "doseRate": {
+      "dog": 70,
+      "cat": 70,
+      "horse": "Variable (mucolytic use)",
+      "ruminant": "Not routinely used"
+    },
+    "description": "A mucolytic and hepatoprotective agent used in acetaminophen toxicity and respiratory therapy.",
+    "contraindications": "None specific; avoid in animals with active vomiting if oral.",
+    "precautions": "Use cautiously in asthmatic animals if inhaled.",
+    "administrationRoute": "Oral, Inhalation, IV (off-label)",
+    "routeType": "oral",
+    "ageRestrictions": "Safe across all age groups with dose adjustment."
+  },
+  "Acepromazine": {
+    "reaction": "Sedation, hypotension, hypothermia",
+    "doseRate": {
+      "dog": 0.5,
+      "cat": 0.25,
+      "ruminant": 0.3,
+      "horse": 0.4
+    },
+    "description": "A tranquilizer used for sedation and pre-anesthetic purposes.",
+    "contraindications": "Hypersensitivity to acepromazine.",
+    "precautions": "Use with caution in patients with liver disease.",
+    "administrationRoute": "Oral",
+    "ageRestrictions": "Not recommended for use in puppies under 6 weeks."
+  },
+  "Aceprometazine": {
+    "reaction": "Sedation, hypotension, hypothermia, extrapyramidal signs (rare)",
+    "doseRate": {
+      "dog": 0.5,
+      "cat": 0.2,
+      "horse": 0.3,
+      "ruminant": 0.2
+    },
+    "description": "A phenothiazine tranquilizer used for sedation, often in combination with other agents.",
+    "contraindications": "Hypotension, shock, liver disease.",
+    "precautions": "May lower seizure threshold; avoid in aggressive animals without monitoring.",
+    "administrationRoute": "Oral, IM, IV",
+    "routeType": "Injection",
+    "ageRestrictions": "Use with caution in animals under 8 weeks."
+  },
+  "Albendazole": {
+    "reaction": "Anorexia, lethargy, depression, vomiting, diarrhea, elevated liver enzymes, neutropenia, aplastic anemia.",
+    "doseRate": {
+      "dog": 7.5,
+      "cat": 7.5,
+      "horse": 7.5,
+      "ruminant": 7.5
+    },
+    "description": "A broad-spectrum anthelmintic effective against various nematodes, cestodes, and protozoa.",
+    "contraindications": "Hypersensitivity to albendazole or other benzimidazoles; use in pregnant animals, especially during the first trimester.",
+    "precautions": "Use with caution in animals with liver disease; monitor liver function and complete blood counts during prolonged therapy.",
+    "administrationRoute": "Oral",
+    "routeType": "Injection",
+    "ageRestrictions": "Not recommended for use in animals under 2 weeks old."
+  },
+  "Allopurinol": {
+    "reaction": "Crystalluria, GI upset, hepatotoxicity (rare), rash",
+    "doseRate": {
+      "dog": 15,
+      "cat": "Not routinely used",
+      "horse": "Not used",
+      "ruminant": "Not used"
+    },
+    "description": "A xanthine oxidase inhibitor used to manage urate urolithiasis and leishmaniasis.",
+    "contraindications": "Renal insufficiency, xanthine stone formers.",
+    "precautions": "Encourage hydration; monitor renal function and urine pH.",
+    "administrationRoute": "Oral",
+    "routeType": "oral",
+    "ageRestrictions": "Safe in older puppies and adults; avoid in neonates unless necessary."
+  },
+  "Amikacin": {
+    "reaction": "Nephrotoxicity, ototoxicity, vestibular toxicity (especially in cats)",
+    "doseRate": {
+      "dog": 15,
+      "cat": 10,
+      "ruminant": 10,
+      "horse": 10
+    },
+    "description": "An aminoglycoside antibiotic effective against serious gram-negative infections.",
+    "contraindications": "Renal insufficiency, preexisting hearing or vestibular damage.",
+    "precautions": "Monitor renal function and hydration; avoid concurrent nephrotoxic drugs.",
+    "administrationRoute": "IV, IM, SC",
+    "routeType": "Injection",
+    "ageRestrictions": "Use cautiously in neonates due to immature renal clearance."
+  },
+  "Amitriptyline": {
+    "reaction": "Sedation, dry mouth, urinary retention, arrhythmias, GI upset, seizures (rare)",
+    "doseRate": {
+      "dog": 2,
+      "cat": 1.5,
+      "horse": "Not routinely used",
+      "ruminant": "Not used"
+    },
+    "description": "A tricyclic antidepressant used for behavioral disorders, pruritus, and neuropathic pain.",
+    "contraindications": "Use with MAOIs, seizure disorders, or known hypersensitivity.",
+    "precautions": "Use with caution in animals with thyroid, heart, or liver disease.",
+    "administrationRoute": "Oral",
+    "routeType": "oral",
+    "ageRestrictions": "Use cautiously in young animals; monitor for adverse behavior changes."
+  },
+  "Amphotericin B": {
+    "reaction": "Nephrotoxicity, renal toxicity, allergic reactions",
+    "doseRate": {
+      "dog": 15,
+      "cat": 10,
+      "ruminant": 11,
+      "horse": 12
+    },
+    "description": "An antifugal used to treat fungal infections.",
+    "contraindications": "Hypersensitivity to Amphotericin B.",
+    "precautions": "Use with caution in patients with renal impairment.",
+    "administrationRoute": "Oral",
+    "routeType": "oral",
+    "ageRestrictions": "Not recommended for use in puppies under 8 weeks."
+  },
+  "Amoxicillin": {
+    "reaction": "Nausea, diarrhea, allergic reactions",
+    "doseRate": {
+      "dog": 15,
+      "cat": 10,
+      "ruminant": 11,
+      "horse": 12
+    },
+    "description": "A broad-spectrum antibiotic used to treat bacterial infections.",
+    "contraindications": "Allergy to penicillin.",
+    "precautions": "Use with caution in patients with renal impairment.",
+    "administrationRoute": "Oral",
+    "routeType": "oral",
+    "ageRestrictions": "Not recommended for use in puppies under 8 weeks."
+  },
+  "Atenolol": {
+    "reaction": "Bradycardia, hypotension, fatigue, syncope",
+    "doseRate": {
+      "dog": 0.5,
+      "cat": 1,
+      "horse": 0.3,
+      "ruminant": "Not routinely used"
+    },
+    "description": "A beta-1 selective blocker used for arrhythmias and hypertrophic cardiomyopathy.",
+    "contraindications": "Bradycardia, AV block, decompensated heart failure.",
+    "precautions": "Taper off gradually to avoid rebound tachycardia.",
+    "administrationRoute": "Oral",
+    "routeType": "oral",
+    "ageRestrictions": "Adjust dose for juveniles or those with reduced cardiac output."
+  },
+  "Atipamezole": {
+    "reaction": "Vomiting, diarrhea, tremors",
+    "doseRate": {
+      "dog": 0.1,
+      "cat": 0.1,
+      "horse": null,
+      "ruminant": null,
+      "all": 0.1
+    },
+    "description": "Alpha-2 antagonist used to reverse sedation from dexmedetomidine.",
+    "contraindications": "Severe cardiovascular disease.",
+    "precautions": "Monitor heart rate and blood pressure.",
+    "administrationRoute": "IM",
+    "routeType": "injection",
+    "ageRestrictions": "Safe in most age groups.",
+    "reference": "Plumb's Veterinary Drug Handbook, 9th Edition"
+  },
+  "Atropine": {
+    "reaction": "Dry mouth, increased heart rate, dilated pupils",
+    "doseRate": {
+      "dog": 0.02,
+      "cat": 0.01,
+      "ruminant": 0.015,
+      "horse": 0.02
+    },
+    "description": "An anticholinergic agent used to treat bradycardia and as a pre-anesthetic.",
+    "contraindications": "Glaucoma, urinary obstruction.",
+    "precautions": "Use with caution in patients with heart disease.",
+    "administrationRoute": "IM, IV",
+    "routeType": "Injection",
+    "ageRestrictions": "Not recommended for use in puppies under 6 weeks."
+  },
+  "Azathioprine": {
+    "reaction": "Myelosuppression, hepatotoxicity, pancreatitis (dogs), GI upset",
+    "doseRate": {
+      "dog": 2,
+      "cat": "Avoid use",
+      "horse": "Not used",
+      "ruminant": "Not used"
+    },
+    "description": "An immunosuppressive agent used to manage immune-mediated diseases in dogs.",
+    "contraindications": "Liver dysfunction, pancreatitis, cats (high toxicity risk).",
+    "precautions": "Monitor CBC and liver enzymes regularly.",
+    "administrationRoute": "Oral",
+    "routeType": "oral",
+    "ageRestrictions": "Not recommended in very young or growing animals."
+  },
+  "Benazepril": {
+    "reaction": "Hypotension, renal dysfunction, hyperkalemia",
+    "doseRate": {
+      "dog": 0.5,
+      "cat": 0.5,
+      "ruminant": "Not commonly used",
+      "horse": "Not routinely used"
+    },
+    "description": "An ACE inhibitor used in the treatment of heart failure, proteinuria, and hypertension.",
+    "contraindications": "Pregnancy, bilateral renal artery stenosis.",
+    "precautions": "Monitor kidney values and electrolytes; avoid use with NSAIDs.",
+    "administrationRoute": "Oral",
+    "routeType": "oral",
+    "ageRestrictions": "Use with caution in animals under 8 weeks of age."
+  },
+  "Budesonide": {
+    "reaction": "Polyuria, polydipsia, weight gain (mild), GI upset",
+    "doseRate": {
+      "dog": 3,
+      "cat": 2,
+      "horse": "Occasional inhaled use",
+      "ruminant": "Not typically used"
+    },
+    "description": "A corticosteroid with low systemic absorption, used for IBD and airway inflammation.",
+    "contraindications": "Systemic fungal infections, active GI bleeding.",
+    "precautions": "Taper slowly; monitor for adrenal suppression with long-term use.",
+    "administrationRoute": "Oral, Inhalation",
+    "routeType": "oral",
+    "ageRestrictions": "Use with caution in growing animals."
+  },
+  "Butorphanol": {
+    "reaction": "Sedation, ataxia, nausea, respiratory depression (high doses)",
+    "doseRate": {
+      "dog": 0.2,
+      "cat": 0.4,
+      "horse": 0.01,
+      "ruminant": 0.05
+    },
+    "description": "An opioid agonist-antagonist used for pain relief and as an antitussive or pre-anesthetic.",
+    "contraindications": "Liver disease, head trauma.",
+    "precautions": "Use caution with other CNS depressants; monitor respiratory rate.",
+    "administrationRoute": "IV, IM, SC",
+    "routeType": "Injection",
+    "ageRestrictions": "Use cautiously in neonates and geriatric patients."
+  },
+  "Carbamazepine": {
+    "reaction": "Sedation, ataxia, liver enzyme elevation, blood dyscrasias",
+    "doseRate": {
+      "dog": 10,
+      "cat": "Not commonly used",
+      "horse": "Experimental only",
+      "ruminant": "Not used"
+    },
+    "description": "An anticonvulsant and mood stabilizer occasionally used off-label in dogs for seizures or neuropathic pain.",
+    "contraindications": "Bone marrow depression, hepatic dysfunction.",
+    "precautions": "Drug interactions common; monitor liver and hematology panels.",
+    "administrationRoute": "Oral",
+    "routeType": "oral",
+    "ageRestrictions": "Not typically used in puppies or kittens."
+  },
+  "Carprofen": {
+    "reaction": "Gastrointestinal upset, kidney damage",
+    "doseRate": {
+      "dog": 2,
+      "cat": 1,
+      "ruminant": 1.5,
+      "horse": 2
+    },
+    "description": "A non-steroidal anti-inflammatory drug (NSAID) used for pain relief.",
+    "contraindications": "Allergy to NSAIDs.",
+    "precautions": "Use with caution in patients with kidney disease.",
+    "administrationRoute": "Oral",
+    "routeType": "oral",
+    "ageRestrictions": "Not recommended for use in young animals."
+  },
+  "Cefalexin": {
+    "reaction": "Nausea, diarrhea, allergic reactions",
+    "doseRate": {
+      "dog": 20,
+      "cat": 15,
+      "ruminant": 17,
+      "horse": 18
+    },
+    "description": "An antibiotic used to treat bacterial infections.",
+    "contraindications": "Allergy to cephalosporins.",
+    "precautions": "Use with caution in patients with renal impairment.",
+    "administrationRoute": "Oral",
+    "routeType": "oral",
+    "ageRestrictions": "Not recommended for use in puppies under 6 weeks."
+  },
+  "Cefpodoxime": {
+    "reaction": "Vomiting, diarrhea, hypersensitivity reactions",
+    "doseRate": {
+      "dog": 5,
+      "cat": 5,
+      "horse": "Not recommended",
+      "ruminant": "Not commonly used"
+    },
+    "description": "A third-generation cephalosporin antibiotic commonly used in dogs and cats.",
+    "contraindications": "Hypersensitivity to cephalosporins or penicillins.",
+    "precautions": "Use cautiously in animals with renal disease.",
+    "administrationRoute": "Oral",
+    "routeType": "oral",
+    "ageRestrictions": "Use with caution in young animals under 8 weeks."
+  },
+  "Chlorpheniramine": {
+    "reaction": "Sedation, paradoxical excitement (especially in cats), dry mouth, GI upset",
+    "doseRate": {
+      "dog": 0.5,
+      "cat": 2,
+      "horse": 0.5,
+      "ruminant": "Not routinely used"
+    },
+    "description": "An antihistamine used for allergies, pruritus, and mild sedation.",
+    "contraindications": "Glaucoma, hypertension, hyperthyroidism, urinary retention.",
+    "precautions": "May cause sedation; use with caution with other CNS depressants.",
+    "administrationRoute": "Oral",
+    "routeType": "oral",
+    "ageRestrictions": "Use with caution in neonates; avoid sustained-release forms in small animals."
+  },
+  "Ciprofloxacin": {
+    "reaction": "Nausea, diarrhea, allergic reactions",
+    "doseRate": {
+      "dog": 10,
+      "cat": 5,
+      "ruminant": 8,
+      "horse": 9
+    },
+    "description": "A fluoroquinolone antibiotic used to treat bacterial infections.",
+    "contraindications": "Allergy to fluoroquinolones.",
+    "precautions": "Use with caution in patients with renal impairment.",
+    "administrationRoute": "Oral",
+    "routeType": "oral",
+    "ageRestrictions": "Not recommended for use in puppies under 6 weeks."
+  },
+  "Cisapride": {
+    "reaction": "Diarrhea, abdominal cramping, arrhythmias (rare)",
+    "doseRate": {
+      "dog": 0.5,
+      "cat": 0.5,
+      "horse": 0.05,
+      "ruminant": "Not used"
+    },
+    "description": "A promotility agent used in managing GI motility disorders like megacolon in cats.",
+    "contraindications": "GI obstruction, known arrhythmias, use with CYP3A4 inhibitors.",
+    "precautions": "Withdrawn from human market due to QT prolongation risk.",
+    "administrationRoute": "Oral",
+    "routeType": "oral",
+    "ageRestrictions": "Safe with appropriate dosing in juveniles."
+  },
+  "Clindamycin": {
+    "reaction": "Vomiting, diarrhea, esophagitis in cats, allergic reactions",
+    "doseRate": {
+      "dog": 11,
+      "cat": 10,
+      "ruminant": "Contraindicated",
+      "horse": "Contraindicated"
+    },
+    "description": "A lincosamide antibiotic effective against anaerobic bacteria and some protozoa.",
+    "contraindications": "Use in rabbits, guinea pigs, horses, and ruminants; known hypersensitivity.",
+    "precautions": "Give with water or food in cats to reduce esophageal injury.",
+    "administrationRoute": "Oral, IM",
+    "routeType": "Injection",
+    "ageRestrictions": "Use with caution in neonatal animals; avoid solid tablets in kittens."
+  },
+  "Cyproheptadine": {
+    "reaction": "Sedation, dry mouth, increased appetite, paradoxical excitement",
+    "doseRate": {
+      "dog": 1.1,
+      "cat": 2,
+      "horse": 0.2,
+      "ruminant": "Not used"
+    },
+    "description": "An antihistamine and serotonin antagonist used for allergies, appetite stimulation, and serotonin syndrome.",
+    "contraindications": "Angle-closure glaucoma, bladder neck obstruction.",
+    "precautions": "May reduce efficacy of serotonin-based drugs; use cautiously in diabetic patients.",
+    "administrationRoute": "Oral",
+    "routeType": "oral",
+    "ageRestrictions": "Use with caution in very young animals."
+  },
+  "Dexamethasone": {
+    "reaction": "Polyuria, polydipsia, increased appetite, GI ulcers, immunosuppression",
+    "doseRate": {
+      "dog": 0.1,
+      "cat": 0.1,
+      "horse": 0.04,
+      "ruminant": 0.04
+    },
+    "description": "A potent corticosteroid used for inflammatory, allergic, and autoimmune conditions.",
+    "contraindications": "Systemic fungal infections, corneal ulcers, GI ulcers.",
+    "precautions": "Taper gradually after prolonged use; monitor for Cushingoid signs.",
+    "administrationRoute": "Oral, IV, IM",
+    "routeType": "Injection",
+    "ageRestrictions": "Use with caution in young or immunosuppressed animals."
+  },
+  "Desoxycorticosterone pivalate (DOCP)": {
+    "reaction": "Swelling at injection site, hypernatremia, hypokalemia, GI upset",
+    "doseRate": {
+      "dog": 2.2,
+      "cat": "Rarely used",
+      "horse": "Not used",
+      "ruminant": "Not used"
+    },
+    "description": "A long-acting mineralocorticoid used to treat Addison’s disease (hypoadrenocorticism).",
+    "contraindications": "CHF, renal failure, severe hypertension.",
+    "precautions": "Monitor electrolytes frequently; supplement with glucocorticoid if needed.",
+    "administrationRoute": "IM, SC",
+    "routeType": "Injection",
+    "ageRestrictions": "Safe with monitoring in growing dogs."
+  },
+  "Diazepam": {
+    "reaction": "Sedation, ataxia, hepatotoxicity (especially in cats), lethargy, appetite stimulation",
+    "doseRate": {
+      "dog": 0.5,
+      "cat": 0.5,
+      "ruminant": 0.5,
+      "horse": 0.2
+    },
+    "description": "A benzodiazepine used for anxiety, seizures, and muscle relaxation.",
+    "contraindications": "Severe liver disease, hypersensitivity to benzodiazepines.",
+    "precautions": "Monitor cats for signs of hepatic failure; avoid long-term use without supervision.",
+    "administrationRoute": "IV, Oral, Rectal (for seizures)",
+    "routeType": "Injection",
+    "ageRestrictions": "Avoid long-term oral use in young cats."
+  },
+  "Diclofenac": {
+    "reaction": "GI ulcers, renal toxicity, lethargy",
+    "doseRate": {
+      "dog": null,
+      "cat": null,
+      "horse": 0.01,
+      "ruminant": null,
+      "all": 0.01
+    },
+    "description": "NSAID used topically for equine osteoarthritis.",
+    "contraindications": "Ulceration, renal failure.",
+    "precautions": "Do not use in food animals.",
+    "administrationRoute": "Topical",
+    "routeType": "topical",
+    "ageRestrictions": "Use with caution in foals.",
+    "reference": "Plumb's Veterinary Drug Handbook, 9th Edition"
+  },
+  "Diminazene Aceturate": {
+    "reaction": "Injection site pain, fever, hypotension, CNS signs (overdose).",
+    "doseRate": {
+      "dog": "3.5 mg/kg IM/SC once (repeat in 7 days if needed)",
+      "cat": "3.5 mg/kg IM/SC once (limited data)",
+      "horse": "3.5 mg/kg IM/SC (Babesia treatment)",
+      "ruminant": "3.5 mg/kg IM/SC (Babesia treatment)"
+    },
+    "description": "Antiprotozoal for Babesia, Trypanosoma infections.",
+    "contraindications": "Hypersensitivity, severe renal/hepatic disease.",
+    "precautions": "Monitor for hypotension; avoid IV (severe reactions).",
+    "administrationRoute": "IM, SC.",
+    "routeType": "Injection",
+    "ageRestrictions": "Safety in neonates not established."
+  },
+  "Doxycycline": {
+    "reaction": "Nausea, diarrhea, allergic reactions",
+    "doseRate": {
+      "dog": 10,
+      "cat": 5,
+      "ruminant": 10,
+      "horse": 12
+    },
+    "description": "A broad-spectrum antibiotic used to treat bacterial infections.",
+    "contraindications": "Allergy to penicillin.",
+    "precautions": "Use with caution in patients with renal impairment.",
+    "administrationRoute": "Oral",
+    "routeType": "oral",
+    "ageRestrictions": "Not recommended for use in puppies under 8 weeks."
+  },
+  "Enrofloxacin": {
+    "reaction": "Vomiting, diarrhea, cartilage damage in young animals, CNS effects (seizures), ocular toxicity in cats",
+    "doseRate": {
+      "dog": 5,
+      "cat": 5,
+      "ruminant": 7.5,
+      "horse": 7.5
+    },
+    "description": "A fluoroquinolone antibiotic effective against a broad range of gram-negative and some gram-positive bacteria.",
+    "contraindications": "Use in young, growing animals; known hypersensitivity to fluoroquinolones.",
+    "precautions": "Avoid use with antacids, dairy, or iron supplements. Use with caution in animals with CNS disorders.",
+    "administrationRoute": "Oral, Injectable (IM, IV in some cases)",
+    "routeType": "Injection",
+    "ageRestrictions": "Not recommended in dogs <8 months; cats max dose 5 mg/kg/day due to risk of blindness."
+  },
+  "Epinephrine": {
+    "reaction": "Tachycardia, hypertension, anxiety",
+    "doseRate": {
+      "dog": 0.01,
+      "cat": 0.01,
+      "horse": 0.01,
+      "ruminant": 0.01,
+      "all": 0.01
+    },
+    "description": "Alpha- and beta-adrenergic agonist for anaphylaxis and cardiac arrest.",
+    "contraindications": "None in emergencies.",
+    "precautions": "Avoid repeated dosing unless indicated.",
+    "administrationRoute": "IV, IM, SC",
+    "routeType": "injection",
+    "ageRestrictions": "No specific age restrictions in emergencies.",
+    "reference": "Plumb's Veterinary Drug Handbook, 9th Edition"
+  },
+  "Erythromycin": {
+    "reaction": "Vomiting, diarrhea, anorexia, GI cramping",
+    "doseRate": {
+      "dog": 5,
+      "cat": 5,
+      "horse": "Used cautiously in foals",
+      "ruminant": "Not routinely used"
+    },
+    "description": "A macrolide antibiotic used in GI motility and infection control (e.g. Rhodococcus equi in foals).",
+    "contraindications": "Hepatic dysfunction, hypersensitivity.",
+    "precautions": "Do not use in adult horses due to colitis risk.",
+    "administrationRoute": "Oral, IV",
+    "routeType": "Injection",
+    "ageRestrictions": "Use with extreme caution in neonates due to GI effects."
+  },
+  "Famotidine": {
+    "reaction": "Rare: bradycardia, GI upset",
+    "doseRate": {
+      "dog": 1,
+      "cat": 1,
+      "horse": 1,
+      "ruminant": "Off-label, limited data"
+    },
+    "description": "An H2-receptor antagonist used to reduce stomach acid and treat ulcers.",
+    "contraindications": "Known hypersensitivity to famotidine.",
+    "precautions": "May reduce absorption of drugs needing acidic environment (e.g., ketoconazole).",
+    "administrationRoute": "Oral, IV",
+    "routeType": "Injection",
+    "ageRestrictions": "Generally safe across age groups; monitor in neonates with renal compromise."
+  },
+  "Furosemide": {
+    "reaction": "Dehydration, electrolyte imbalances (especially hypokalemia), ototoxicity",
+    "doseRate": {
+      "dog": 2,
+      "cat": 1,
+      "ruminant": 1.5,
+      "horse": 1
+    },
+    "description": "A loop diuretic used to treat edema, congestive heart failure, and other fluid-retention conditions.",
+    "contraindications": "Severe dehydration, electrolyte imbalances.",
+    "precautions": "Ensure adequate water intake; monitor electrolyte levels regularly.",
+    "administrationRoute": "Oral, IV, IM",
+    "routeType": "Injection",
+    "ageRestrictions": "Not recommended in very young animals without close monitoring."
+  },
+  "Gabapentin": {
+    "reaction": "Sedation, ataxia, vomiting, lethargy; possible false positive urine protein tests",
+    "doseRate": {
+      "dog": 10,
+      "cat": 5,
+      "horse": "Not routinely used",
+      "ruminant": "Limited data; not recommended"
+    },
+    "description": "An anticonvulsant and analgesic used for neuropathic pain and refractory seizures.",
+    "contraindications": "Hypersensitivity to gabapentin. Use oral solution cautiously in dogs due to xylitol content.",
+    "precautions": "Use with caution in renal impairment; may interact with antacids, hydrocodone, and morphine.",
+    "administrationRoute": "Oral",
+    "routeType": "oral",
+    "ageRestrictions": "Use with caution in pediatric patients; monitor for sedation."
+  },
+  "Gentamicin": {
+    "reaction": "Nephrotoxicity, ototoxicity (especially in cats), gastrointestinal disturbances, weakness, restlessness",
+    "doseRate": {
+      "dog": 5,
+      "cat": 2.5,
+      "ruminant": 4,
+      "horse": 6.6
+    },
+    "description": "An aminoglycoside antibiotic effective against many aerobic gram-negative and some gram-positive bacteria.",
+    "contraindications": "Renal impairment, pre-existing hearing loss.",
+    "precautions": "Monitor kidney function and hydration status closely. Avoid combining with other nephrotoxic drugs.",
+    "administrationRoute": "Parenteral (IM, IV); not effective orally.",
+    "routeType": "Injection",
+    "ageRestrictions": "Use with caution in neonates due to immature renal function."
+  },
+  "Hydroxyzine": {
+    "reaction": "Sedation, dry mouth, tremors, seizures (rare), polydipsia, depression (in cats)",
+    "doseRate": {
+      "dog": 2.2,
+      "cat": 2,
+      "horse": 1,
+      "ruminant": "Not typically used"
+    },
+    "description": "An antihistamine used for allergies, pruritus, and anxiety in dogs and cats.",
+    "contraindications": "Prostatic hypertrophy, bladder neck obstruction, angle-closure glaucoma, cardiac failure.",
+    "precautions": "Use cautiously with CNS depressants and anticholinergics. May mask symptoms in allergy testing.",
+    "administrationRoute": "Oral, IM (horses)",
+    "routeType": "Injection",
+    "ageRestrictions": "Avoid use in pregnant animals unless necessary."
+  },
+  "Imidocarb": {
+    "reaction": "Pain at injection site, cholinergic signs, nephrotoxicity",
+    "doseRate": {
+      "dog": 6,
+      "cat": 3,
+      "horse": null,
+      "ruminant": null,
+      "all": 6
+    },
+    "description": "Antiprotozoal used to treat babesiosis and other tick-borne infections.",
+    "contraindications": "Severe hepatic or renal disease.",
+    "precautions": "Pre-treat with atropine to reduce side effects.",
+    "administrationRoute": "IM, SC",
+    "routeType": ["injection"],
+    "ageRestrictions": "Avoid in very young animals unless necessary.",
+    "reference": "Plumb's Veterinary Drug Handbook, 9th Edition"
+  },
+  "Insulin (Glargine)": {
+    "reaction": "Hypoglycemia, injection site reactions",
+    "doseRate": {
+      "dog": 0.25,
+      "cat": 0.25,
+      "horse": null,
+      "ruminant": null,
+      "all": 0.25
+    },
+    "description": "Long-acting insulin used in the management of diabetes mellitus.",
+    "contraindications": "Hypoglycemia, known allergy to insulin.",
+    "precautions": "Monitor blood glucose closely.",
+    "administrationRoute": "SC",
+    "routeType": ["injection"],
+    "ageRestrictions": "Use with caution in pediatric animals.",
+    "reference": "Plumb's Veterinary Drug Handbook, 9th Edition"
+  },
+  "Isoflurane": {
+    "reaction": "Respiratory depression, hypotension, arrhythmias",
+    "doseRate": {
+      "dog": "Anesthetic inhalant; 1.3–1.6% MAC",
+      "cat": "Anesthetic inhalant; 1.6–1.8% MAC",
+      "horse": "1.3% MAC",
+      "ruminant": "1.2–1.4% MAC"
+    },
+    "description": "A volatile inhalant anesthetic used for maintenance of general anesthesia.",
+    "contraindications": "Malignant hyperthermia susceptibility.",
+    "precautions": "Monitor respiration and cardiac function continuously.",
+    "administrationRoute": "Inhalation",
+    "ageRestrictions": "Use with caution in very young or geriatric patients."
+  },
+  "Ivermectin": {
+    "reaction": "Neurological effects, especially in collies",
+    "doseRate": {
+      "dog": 0.2,
+      "cat": 0.1,
+      "horse": 0.15
+    },
+    "description": "An antiparasitic used to treat various parasitic infections.",
+    "contraindications": "Allergy to ivermectin.",
+    "precautions": "Use with caution in collies and other sensitive breeds.",
+    "administrationRoute": "Oral",
+    "routeType": "Injection",
+    "ageRestrictions": "Not recommended for use in young animals."
+  },
+  "Ketamine": {
+    "reaction": "Increased heart rate, salivation, muscle rigidity, hallucinations (in recovery)",
+    "doseRate": {
+      "dog": 5,
+      "cat": 10,
+      "horse": 2.2,
+      "ruminant": 1.1
+    },
+    "description": "A dissociative anesthetic used in combination protocols for induction or sedation.",
+    "contraindications": "Head trauma, glaucoma, seizure disorders.",
+    "precautions": "Avoid use alone for major procedures; combine with muscle relaxants.",
+    "administrationRoute": "IM, IV",
+    "routeType": "Injection",
+    "ageRestrictions": "Use cautiously in neonates due to variable metabolism."
+  },
+  "Ketoconazole": {
+    "reaction": "Vomiting, anorexia, hepatotoxicity, lethargy",
+    "doseRate": {
+      "dog": 10,
+      "cat": 5,
+      "horse": "Use not recommended",
+      "ruminant": "Not routinely used"
+    },
+    "description": "An antifungal agent used to treat systemic and superficial fungal infections.",
+    "contraindications": "Hepatic disease, known hypersensitivity.",
+    "precautions": "Monitor liver enzymes; administer with food to improve absorption.",
+    "administrationRoute": "Oral",
+    "routeType": "oral",
+    "ageRestrictions": "Not recommended in young or debilitated animals without veterinary supervision."
+  },
+  "Levamisole": {
+    "reaction": "Hypersalivation, tremors, seizures, GI upset, dyspnea, ataxia",
+    "doseRate": {
+      "dog": 2.2,
+      "cat": "Not commonly used",
+      "ruminant": {
+        "cattle": 7.5,
+        "sheep": 7.5
+      },
+      "horse": "Not routinely used"
+    },
+    "description": "An anthelmintic and immune stimulant used primarily in ruminants and swine.",
+    "contraindications": "Do not use in dairy animals of breeding age; avoid IV administration.",
+    "precautions": "Toxicity signs resemble organophosphate poisoning; avoid combining with similar drugs.",
+    "administrationRoute": "Oral, SC, IM",
+    "routeType": "Injection",
+    "ageRestrictions": "Avoid in debilitated or young animals; use with caution."
+  },
+  "Lidocaine": {
+    "reaction": "CNS depression, vomiting, seizures (high dose), cardiac depression",
+    "doseRate": {
+      "dog": 2,
+      "cat": 0.5,
+      "horse": 1.3,
+      "ruminant": 1
+    },
+    "description": "A local anesthetic and antiarrhythmic agent used for nerve blocks and ventricular arrhythmias.",
+    "contraindications": "Severe heart block without pacemaker.",
+    "precautions": "Toxicity more likely in cats; dose carefully.",
+    "administrationRoute": "IV, local infiltration",
+    "routeType": "Injection",
+    "ageRestrictions": "Use with caution in pediatric patients."
+  },
+  "Lorazepam": {
+    "reaction": "Sedation, ataxia, paradoxical excitement",
+    "doseRate": {
+      "dog": 0.05,
+      "cat": 0.05,
+      "horse": null,
+      "ruminant": null,
+      "all": 0.05
+    },
+    "description": "Benzodiazepine used for anxiety, seizures, and sedation.",
+    "contraindications": "Severe respiratory disease.",
+    "precautions": "Can cause dependence with long-term use.",
+    "administrationRoute": "Oral, IV",
+    "routeType": ["oral", "injection"],
+    "ageRestrictions": "Use with caution in neonates.",
+    "reference": "Plumb's Veterinary Drug Handbook, 9th Edition"
+  },
+  "Maropitant": {
+    "reaction": "Pain on injection, lethargy, diarrhea",
+    "doseRate": {
+      "dog": 1,
+      "cat": 1,
+      "horse": null,
+      "ruminant": null,
+      "all": 1
+    },
+    "description": "NK1 receptor antagonist used to prevent and treat vomiting.",
+    "contraindications": "Liver dysfunction.",
+    "precautions": "Dose adjust in hepatic impairment.",
+    "administrationRoute": "Oral, SC",
+    "routeType": ["oral", "injection"],
+    "ageRestrictions": "Safe from 8 weeks of age.",
+    "reference": "Plumb's Veterinary Drug Handbook, 9th Edition"
+  },
+  "Meloxicam": {
+    "reaction": "Gastrointestinal upset, kidney damage",
+    "doseRate": {
+      "dog": 0.2,
+      "cat": 0.1,
+      "horse": 0.15
+    },
+    "description": "A non-steroidal anti-inflammatory drug (NSAID) used for pain relief.",
+    "contraindications": "Allergy to NSAIDs.",
+    "precautions": "Use with caution in patients with kidney disease.",
+    "administrationRoute": "Oral",
+    "routeType": "oral",
+    "ageRestrictions": "Not recommended for use in young animals."
+  },
+  "Methimazole": {
+    "reaction": "Vomiting, facial pruritus, hepatopathy, blood dyscrasias in cats",
+    "doseRate": {
+      "dog": "Not used",
+      "cat": 2.5,
+      "horse": "Not used",
+      "ruminant": "Not used"
+    },
+    "description": "An antithyroid drug used to manage feline hyperthyroidism.",
+    "contraindications": "Liver disease, thrombocytopenia, known hypersensitivity.",
+    "precautions": "Monitor CBC and liver enzymes regularly; may need dose adjustments.",
+    "administrationRoute": "Oral, transdermal",
+    "routeType": "oral",
+    "ageRestrictions": "Generally safe in adult cats; monitor closely in geriatrics."
+  },
+  "Metoclopramide": {
+    "reaction": "Sedation, agitation, extrapyramidal effects, diarrhea, restlessness",
+    "doseRate": {
+      "dog": 0.2,
+      "cat": 0.3,
+      "horse": 0.25,
+      "ruminant": "Not routinely used"
+    },
+    "description": "A dopamine antagonist and prokinetic used for nausea, vomiting, and delayed gastric emptying.",
+    "contraindications": "GI obstruction, seizures, pheochromocytoma.",
+    "precautions": "Avoid use with MAOIs; may enhance CNS depressant effects.",
+    "administrationRoute": "Oral, IV, SC, IM",
+    "routeType": "Injection",
+    "ageRestrictions": "Use with caution in young or geriatric patients."
+  },
+  "Metronidazole": {
+    "reaction": "Anorexia, vomiting, neurologic signs (ataxia, seizures), hepatotoxicity",
+    "doseRate": {
+      "dog": 25,
+      "cat": 15,
+      "horse": 15,
+      "ruminant": "Prohibited in food animals"
+    },
+    "description": "An antibiotic and antiprotozoal used to treat anaerobic infections and Giardia.",
+    "contraindications": "Pregnancy (especially 1st trimester), liver disease, hypersensitivity to nitroimidazoles.",
+    "precautions": "Monitor for neurologic side effects during long-term use; bitter taste may reduce compliance.",
+    "administrationRoute": "Oral, IV",
+    "routeType": "Injection",
+    "ageRestrictions": "Avoid in very young animals without veterinary supervision."
+  },
+  "Midazolam": {
+    "reaction": "Sedation, ataxia, respiratory depression, paradoxical excitation (rare)",
+    "doseRate": {
+      "dog": 0.2,
+      "cat": 0.2,
+      "horse": 0.05,
+      "ruminant": 0.05
+    },
+    "description": "A benzodiazepine used for sedation, anesthesia premedication, and seizure control.",
+    "contraindications": "Severe respiratory depression, hypersensitivity to benzodiazepines.",
+    "precautions": "Monitor respiration and cardiovascular function closely.",
+    "administrationRoute": "IV, IM, SC, intranasal, rectal",
+    "routeType": "Injection",
+    "ageRestrictions": "Safe in neonates with dose adjustment."
+  },
+  "Milbemycin oxime": {
+    "reaction": "Lethargy, vomiting, ataxia, especially in herding breeds (MDR1 mutation)",
+    "doseRate": {
+      "dog": 0.5,
+      "cat": 2,
+      "horse": "Not used",
+      "ruminant": "Not used"
+    },
+    "description": "An antiparasitic used for prevention of heartworm disease and control of intestinal worms.",
+    "contraindications": "Known hypersensitivity, caution in MDR1 mutation breeds.",
+    "precautions": "Genetic testing for MDR1 advised in collies and similar breeds.",
+    "administrationRoute": "Oral",
+    "routeType": "oral",
+    "ageRestrictions": "Approved for puppies and kittens over 6 weeks."
+  },
+  "Misoprostol": {
+    "reaction": "Diarrhea, abdominal pain, uterine cramping, vomiting",
+    "doseRate": {
+      "dog": 2.5,
+      "cat": 2.5,
+      "horse": 5,
+      "ruminant": "Not commonly used"
+    },
+    "description": "A synthetic prostaglandin E1 analog used to prevent/treat NSAID-induced gastric ulcers.",
+    "contraindications": "Pregnancy (causes abortion), hypersensitivity.",
+    "precautions": "Handle with gloves, especially by pregnant women.",
+    "administrationRoute": "Oral",
+    "routeType": "oral",
+    "ageRestrictions": "Use with caution in young animals; dose adjust if needed."
+  },
+
+  "Morphine": {
+    "reaction": "Sedation, respiratory depression, vomiting",
+    "doseRate": {
+      "dog": 0.5,
+      "cat": 0.1,
+      "horse": 0.1,
+      "ruminant": 0.1,
+      "all": 0.1
+    },
+    "description": "Full opioid agonist for pain management and sedation.",
+    "contraindications": "Head trauma, respiratory compromise.",
+    "precautions": "Monitor respiratory rate; use lowest effective dose.",
+    "administrationRoute": "IV, IM, SC",
+    "routeType": ["injection"],
+    "ageRestrictions": "Use with caution in neonates and geriatrics.",
+    "reference": "Plumb's Veterinary Drug Handbook, 9th Edition"
+  },
+
+  "Moxidectin": {
+    "reaction": "Lethargy, ataxia, salivation in overdose",
+    "doseRate": {
+      "dog": 0.2,
+      "cat": 0.2,
+      "horse": 0.4,
+      "ruminant": 0.2,
+      "all": 0.2
+    },
+    "description": "Macrocyclic lactone for parasite control (e.g. heartworms, mites).",
+    "contraindications": "Sensitive breeds (e.g. collies).",
+    "precautions": "Monitor for neurotoxicity at high doses.",
+    "administrationRoute": "Topical, SC, Oral",
+    "routeType": ["topical", "injection", "oral"],
+    "ageRestrictions": "Not for use in animals under 6 weeks.",
+    "reference": "Plumb's Veterinary Drug Handbook, 9th Edition"
+  },
+
+  "Neomycin": {
+    "reaction": "Nephrotoxicity, ototoxicity, GI upset",
+    "doseRate": {
+      "dog": 10,
+      "cat": 10,
+      "horse": null,
+      "ruminant": 10,
+      "all": 10
+    },
+    "description": "Aminoglycoside antibiotic used topically and orally for GI infections.",
+    "contraindications": "Renal disease, auditory dysfunction.",
+    "precautions": "Avoid systemic use due to toxicity.",
+    "administrationRoute": "Oral, Topical",
+    "routeType": "oral",
+    "ageRestrictions": "Use with caution in young animals.",
+    "reference": "Plumb's Veterinary Drug Handbook, 9th Edition"
+  },
+
+  "Naltrexone": {
+    "reaction": "Excitability, nausea, increased respiration",
+    "doseRate": {
+      "dog": 0.1,
+      "cat": 0.1,
+      "horse": null,
+      "ruminant": null,
+      "all": 0.1
+    },
+    "description": "Opioid antagonist used to reverse opioid effects.",
+    "contraindications": "Known hypersensitivity.",
+    "precautions": "Titrate to effect in opioid-dependent animals.",
+    "administrationRoute": "IV, IM",
+    "routeType": "injection",
+    "ageRestrictions": "Caution in very young or old patients.",
+    "reference": "Plumb's Veterinary Drug Handbook, 9th Edition"
+  },
+  "Omeprazole": {
+    "reaction": "GI upset, constipation or diarrhea, possible liver enzyme changes",
+    "doseRate": {
+      "dog": 1,
+      "cat": 1,
+      "horse": 4,
+      "ruminant": "Not typically used"
+    },
+    "description": "A proton pump inhibitor used to treat gastric ulcers and esophagitis.",
+    "contraindications": "Hypersensitivity to omeprazole or other PPIs.",
+    "precautions": "May alter absorption of other oral medications; use with caution in hepatic impairment.",
+    "administrationRoute": "Oral",
+    "routeType": "Injection",
+    "ageRestrictions": "Generally safe; consider lower doses for neonates."
+  },
+    "Oxytetracycline": {
+      "reaction": "GI distress, staining of teeth/bones, superinfections, photosensitivity, uroliths (long-term use), ruminal stasis (ruminants), local reactions (IM).",
+      "doseRate": {
+        "dog":10, 
+        "cat":10, 
+        "horse": 10,
+        "ruminant": 10
+      },
+      "description": "Tetracycline antibiotic used for mycoplasma, rickettsia, spirochetes, and Chlamydia infections.",
+      "contraindications": "Hypersensitivity, pregnancy (caution), severe liver/renal disease.",
+      "precautions": "Avoid rapid IV (hemolysis risk); monitor renal/liver function.",
+      "administrationRoute": "Oral, IM, IV.",
+      "routeType": "Injection",
+      "ageRestrictions": "Avoid in young animals (teeth/bone staining)."
+    },
+    "Oxytocin": {
+      "reaction": "Uterine rupture (rare), vomiting, hypotension",
+      "doseRate": {
+        "dog": 0.5,
+        "cat": 0.5,
+        "horse": 10,
+        "ruminant": 10,
+        "all": 1
+      },
+      "description": "Hormone used to induce labor or milk let-down.",
+      "contraindications": "Dystocia due to obstruction.",
+      "precautions": "Ensure cervix is dilated before administration.",
+      "administrationRoute": "IM, IV",
+      "routeType": "injection",
+      "ageRestrictions": "Not applicable.",
+      "reference": "Plumb's Veterinary Drug Handbook, 9th Edition"
+    },
+    "Paracetamol": {
+    "reaction": "Hepatotoxicity (especially in cats), methemoglobinemia, vomiting",
+    "doseRate": {
+      "dog": 10,
+      "cat": null,
+      "horse": null,
+      "ruminant": null,
+      "all": 10
+    },
+    "description": "Non-opioid analgesic and antipyretic used cautiously in dogs; highly toxic to cats.",
+    "contraindications": "Use in cats, liver disease.",
+    "precautions": "Monitor liver enzymes; avoid repeated dosing.",
+    "administrationRoute": "Oral, IV",
+    "routeType": "injection",
+    "ageRestrictions": "Not recommended for young puppies or kittens.",
+    "reference": "Plumb's Veterinary Drug Handbook, 9th Edition"
+  },
+    "Penicillin": {
+      "reaction": "Allergic reactions, GI upset, neurotoxicity at high doses",
+      "doseRate": {
+        "dog": 20,
+        "cat": 20,
+        "horse": 22,
+        "ruminant": 20,
+        "all": 20
+      },
+      "description": "Beta-lactam antibiotic effective against gram-positive bacteria.",
+      "contraindications": "Penicillin allergy.",
+      "precautions": "Avoid IV in small animals for some forms.",
+      "administrationRoute": "IM, SC",
+      "routeType": "injection",
+      "ageRestrictions": "Use caution in neonates.",
+      "reference": "Plumb's Veterinary Drug Handbook, 9th Edition"
+    },
+    "Phenobarbital": {
+      "reaction": "Sedation, PU/PD, liver enzyme elevation",
+      "doseRate": {
+        "dog": 2.5,
+        "cat": 2.5,
+        "horse": null,
+        "ruminant": null,
+        "all": 2.5
+      },
+      "description": "Barbiturate anticonvulsant used for epilepsy management.",
+      "contraindications": "Severe hepatic dysfunction.",
+      "precautions": "Monitor liver enzymes during long-term use.",
+      "administrationRoute": "Oral, IV",
+      "routeType": ["oral", "injection"],
+      "ageRestrictions": "Use with caution in neonates and geriatrics.",
+      "reference": "Plumb's Veterinary Drug Handbook, 9th Edition"
+    },
+    "Praziquantel": {
+      "reaction": "Lethargy, vomiting, diarrhea",
+      "doseRate": {
+        "dog": 5,
+        "cat": 5,
+        "horse": null,
+        "ruminant": null,
+        "all": 5
+      },
+      "description": "Anthelmintic used against tapeworms in dogs and cats.",
+      "contraindications": "None significant in labeled species.",
+      "precautions": "Avoid overdose; ensure correct species.",
+      "administrationRoute": "Oral, Injection",
+      "routeType": "oral",
+      "ageRestrictions": "Not for use in animals under 4 weeks old.",
+      "reference": "Plumb's Veterinary Drug Handbook, 9th Edition"
+    },  
+    "Promethazine": {
+      "reaction": "Sedation, dry mouth, hypotension, GI upset.",
+      "doseRate": {
+        "dog": "0.5–1 mg/kg IM/SC q6–12h (antiemetic)",
+        "cat": "0.1–0.5 mg/kg IM/SC q6–12h"
+      },
+      "description": "Phenothiazine antihistamine/antiemetic.",
+      "contraindications": "Hypersensitivity, CNS depression, dehydration.",
+      "precautions": "Avoid in epileptics (lowers seizure threshold).",
+      "administrationRoute": "IM, SC.",
+      "ageRestrictions": "Neonates (caution)."
+    },
+    "Pyrantel": {
+    "reaction": "Vomiting, diarrhea, mild sedation",
+    "doseRate": {
+      "dog": 10,
+      "cat": 10,
+      "horse": 6.6,
+      "ruminant": null,
+      "all": 10
+    },
+    "description": "Anthelmintic used to treat hookworms and roundworms.",
+    "contraindications": "Severe debilitation.",
+    "precautions": "Shake suspensions well; use exact weight for dosing.",
+    "administrationRoute": "Oral",
+    "routeType": "oral",
+    "ageRestrictions": "Safe in puppies and kittens >2 weeks old.",
+    "reference": "Plumb's Veterinary Drug Handbook, 9th Edition"
+  },
+  "Tramadol": {
+    "reaction": "Sedation, nausea, constipation",
+    "doseRate": {
+      "dog": 5,
+      "cat": 1,
+      "horse": null,
+      "ruminant": null,
+      "all": 5
+    },
+    "description": "Analgesic used for moderate to severe pain management.",
+    "contraindications": "Seizure disorders.",
+    "precautions": "Not a substitute for NSAIDs in acute pain; efficacy varies in dogs.",
+    "administrationRoute": "Oral",
+    "routeType": "oral",
+    "ageRestrictions": "Caution in pediatric and geriatric patients.",
+    "reference": "Plumb's Veterinary Drug Handbook, 9th Edition"
+  },
+  "Tylosin": {
+    "reaction": "Injection site pain, diarrhea, hypersensitivity",
+    "doseRate": {
+      "dog": 10,
+      "cat": 10,
+      "horse": null,
+      "ruminant": 10,
+      "all": 10
+    },
+    "description": "Macrolide antibiotic used for chronic colitis and respiratory infections.",
+    "contraindications": "Horses (risk of colitis).",
+    "precautions": "Avoid IM in small dogs due to pain.",
+    "administrationRoute": "Oral, IM",
+    "routeType": "injection",
+    "ageRestrictions": "Use cautiously in young animals.",
+    "reference": "Plumb's Veterinary Drug Handbook, 9th Edition"
+  },
+    "Vitamin B12 (Cyanocobalamin)": {
+      "reaction": "Rare hypersensitivity (injection site reactions).",
+      "doseRate": {
+        "dog": "250–1000 µg IM/SC weekly (deficiency)",
+        "cat": "250–1000 µg IM/SC weekly (deficiency)",
+        "horse": "1–2 mg IM/SC weekly",
+        "ruminant": "1–2 mg IM/SC weekly"
+      },
+      "description": "Essential for hematopoiesis and neurologic function.",
+      "contraindications": "Hypersensitivity to cobalt/cobalamin.",
+      "precautions": "Monitor hematocrit in deficiency states.",
+      "administrationRoute": "IM, SC.",
+      "ageRestrictions": "Safe across all ages."
+    },
+    "Xylazine": {
+      "reaction": "Bradycardia, hypotension, respiratory depression, ataxia.",
+      "doseRate": {
+        "dog": "0.5–1 mg/kg IM/SC (sedation); 0.1–0.3 mg/kg IV (analgesia)",
+        "cat": "0.1–0.3 mg/kg IM/SC (rarely used due to sensitivity)",
+        "horse": "0.5–1.1 mg/kg IV/IM (sedation)",
+        "ruminant": "0.02–0.1 mg/kg IV/IM (lower doses required)"
+      },
+      "description": "Alpha-2 agonist for sedation, analgesia, muscle relaxation.",
+      "contraindications": "Cardiovascular disease, shock, pregnancy.",
+      "precautions": "Reverse with yohimbine/atipamezole; monitor vitals.",
+      "administrationRoute": "IV, IM, SC.",
+      "ageRestrictions": "Neonates/debilitated animals (caution)."
+    }
+}

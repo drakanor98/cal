@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Veterinary Drug Dosage Calculator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Veterinary Drug Dosage Calculator</h1>
+        
+        <div class="card">
+            <label for="weightKg">Animal Weight:</label>
+            <div class="weight-input">
+                <input type="number" id="weightKg" placeholder="Kg" oninput="convertWeight('kg')">
+                <span class="unit-label">kg</span>
+                <input type="number" id="weightLb" placeholder="Lb" oninput="convertWeight('lb')">
+                <span class="unit-label">lb</span>
+            </div>
+
+            <label for="drug">Select Drug:</label>
+            <select id="drug">
+                <option value="">-- Select a Drug --</option>
+            </select>
+
+            <label for="species">Select Species:</label>
+            <select id="species">
+                <option value="">-- Select a Species --</option>
+                <option value="dog">Dog</option>
+                <option value="cat">Cat</option>
+                <option value="horse">Horse</option>
+                <option value="ruminant">Ruminant</option>
+            </select>
+
+            <label for="concentration">Drug Concentration (mg/mL):</label>
+            <input type="number" id="concentration" placeholder="Enter concentration">
+
+            <div class="custom-dose-toggle">
+                <label>
+                  <input type="checkbox" id="customDoseToggle">
+                  Enter custom dose rate (mg/kg)
+                </label>
+              </div>
+            
+              <div class="custom-dose-group" id="customDoseGroup" style="display: none;">
+                <input type="number" id="customDoseRate" placeholder="e.g. 5.0" step="0.01">
+              </div>
+              
+
+
+            <button onclick="calculateDosage()">Calculate</button>
+            <p id="result"></p>
+        </div>
+
+        <div class="card" id="infoCard" style="display: none;">
+            <h2>Drug Information</h2>
+            <p><strong>Drug Name:</strong> <span id="drugName"></span></p>
+            <p><strong>Age Restrictions:</strong> <span id="ageRestrictions"></span></p>
+            <p><strong>Administration Route:</strong> <span id="administrationRoute"></span></p>
+            <p><strong>Common Reactions:</strong> <span id="reaction"></span></p>
+            <p><strong>Dose Rate:</strong> <span id="doseRate"></span> mg/kg</p>
+            <p><strong>Calculated Dosage:</strong> <span id="calculatedMg"></span> mg</p>
+        </div>
+    </div>
+
+    <script src="drug.js"></script>
+
+</body>
+</html>
